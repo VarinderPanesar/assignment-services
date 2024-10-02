@@ -1,0 +1,25 @@
+@media screen and (max-width:400px){
+
+    .slider-container{
+
+       overflow: hidden;
+    
+        
+    }
+    
+    
+    .slider-left-wrapper>h1{
+
+      
+        font-size:30px;     
+        padding:20px 30px;
+    }
+    
+    .slider-left-wrapper>p{
+        font-size:15px;    
+        padding:20px 30px;
+
+    }
+
+
+}
