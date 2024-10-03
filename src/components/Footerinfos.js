@@ -32,6 +32,9 @@ export default function Footerinfos() {
       <div className="footer-copyright-info">
         <h3>Copyright by @mantejdevgun. All rights reserved {(new Date().getFullYear())}.</h3>
       </div>
+
+      <div class="developed-by">Designed & Developed By <a href="https://www.panesarsoft.com" target="_blank">PANESARSOFT</a></div>
+      
     </section>
     </>
   

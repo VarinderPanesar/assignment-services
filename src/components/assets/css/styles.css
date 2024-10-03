@@ -436,4 +436,15 @@ background-color: #f2f2f2;
     font-size:15px;
 }
 
+.developed-by{
+    color:#f2f2f2;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.developed-by a{
+    text-decoration: none;
+    color:#f2f2f2;
+}
+
 /* Footer info Finishes*/
