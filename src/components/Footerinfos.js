@@ -6,7 +6,7 @@ export default function Footerinfos() {
     <section className="footer-info">
       <div className="footer-info-wrapper">
         <div className="footer-info-left">
-          <h2><a href="#navbar">Eduman</a></h2>
+          <h2><a href="#navbar">Devman</a></h2>
         </div>
         <div className="footer-info-center ">
           <h2>Userful Links</h2>

@@ -25,7 +25,7 @@ export default function Navbar() {
 
    <section class="navbar" id="navbar">
     <div className="navbar-container">
-    <h2 className="logo"><a href="#navbar">Eduman</a></h2>
+    <h2 className="logo"><a href="#navbar">Devman</a></h2>
     <nav>
         <ul   className={isToggled ? 'show-menu' : ''} >
          <li><a href="#navbar">Home</a></li>
